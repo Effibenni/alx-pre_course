@@ -1,0 +1,4 @@
+
+root@17145bfc9192:~/alx-pre_course/0x01-git/bash# cat > alx <<__eof__
+-d
+clear
